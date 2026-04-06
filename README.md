@@ -6,6 +6,8 @@ Rolling a 1 resets the current score and passes the turn. The first to reach 100
 
 ## Live Demo
 
+(https://app.netlify.com/projects/pig-game-mishra/overview)
+
 ## How the Game Works
 
 1. The game starts with Player 1.
